@@ -62,7 +62,7 @@ Penggunaan
 
 Jalankan bot dengan perintah:
 
-python3 <nama_file_bot>.py
+python3 bot.py
 
 Pastikan Anda memiliki token bot yang valid dan telah mengkonfigurasi pengaturan yang diperlukan di file konfigurasi.
 
