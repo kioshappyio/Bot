@@ -1,1 +1,0 @@
-pyTelegramBotAPI==4.0.0  # Gantilah dengan versi yang Anda gunakan
